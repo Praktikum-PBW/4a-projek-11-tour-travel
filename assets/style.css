@@ -1,0 +1,35 @@
+/* user */
+body{
+    background-color: #C7FFED;
+}
+#awal {
+    background-image: url('../assets/images/wisata.jpg'); 
+    background-attachment: fixed; 
+    background-size: cover; 
+    height: 450px; 
+    padding-bottom: 44%; 
+    text-shadow: 100px; 
+    position: relative;
+}
+#about{
+    background-image: url('../assets/images/corporate-incentives.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    text-shadow: 100px;
+}
+#aboutus{
+    padding-top: 30px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    align-items: center;
+}
+#signin{
+    background-image: url("../assets/images/logiin.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    height: 450px;
+    padding-bottom: 48%;
+    text-shadow: 100px;
+}
